@@ -42,5 +42,16 @@
     "blockIndex": 1,
     "blockHash": "58ec676fb664303c02236df634d57e56409dcdf4a00aa4a8471d85b4a4650000",
     "previousBlockHash": ""
+  },
+  {
+    "sender": "samat",
+    "recipient": "alice",
+    "encryptedMessage": "NLqLhuY2xMSl2Ur4EXYxo8ggMpFtcn7uI8FpJGHzqS9YsSMv3VSMAK5rtbn/ix2bbs4c/GH0Cwbkcrzd3Dq4KbiPJLurrj5RormBx399/S7tJnershwzriwyTMY20+ADJCWtQiDaveOjBf5t+0LMTdHRb/oMRvucrgvEuXMYwem7FIh4FTyI0Z8Q7Ol6sje20xUnnmVTpuv6KC6Flhnmj3eBxlW6jAzHxWQHSqkmm5Uun/9uHy10ohNzIE56ZgKD9yRsytzxu3rluEe+XKU6jSqQUJNVZikr6P0ZYX/W87n2oEfF0f0W6Y1m1/PzCU5pBpryYho4CT9kJT1dQHZraA==",
+    "signature": "MtTzWNyqG1NLi5FBmM0KaNJcbvhlxaumdm7AulrqA2wrV9wZ4SdzowCe+0bGA03VSdAKwTqdsa1ZrmL7EPxWOEJWAX/hnodHS2AP+U8Q6La7wS1oH5gTtjAJzS/5WTwWqQT2gI8Rid0MkpIBtBm3bikJNEloRCykbXSdz/r4AkJ353v7VAaxQORNFFuMIUsmjNIykVkkhRLXIZAK6ob3F+hioKOY0+HMcpR+oNvn/vqGPfpNoUR3B0fWBXvHmCelczfNiEYxGjbPdSzKExN/S2Xtg2JeIxdUljH4OFATzseprKH5SwX37A+pJ3mCTf131up7NWTeVLcl8lr9LsRLGQ==",
+    "decryptedMessage": "Hey",
+    "timestamp": "2023-12-24T17:29:00.497Z",
+    "blockIndex": 1,
+    "blockHash": "27381be3f6717411205f00ab641801fc89b67c9fdf8d60638d45ba0825609670",
+    "previousBlockHash": ""
   }
 ]
