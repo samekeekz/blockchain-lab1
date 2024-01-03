@@ -66,8 +66,12 @@ To run this project, ensure you have the following installed:
     ```bash
     git clone https://github.com/samekeekz/blockchain-lab1.git
     ```
+2. Initialize project:
 
-2. Install dependencies:
+    ```bash
+    npm init -y
+    ```
+3. Install dependencies:
 
     ```bash
     npm install
